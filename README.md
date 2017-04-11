@@ -1,5 +1,7 @@
 # number-guessing-game
 
+![A picture of the result](./images/figure_01.png)
+
 This repo is just my practice of JavaScript ... and English.
 
 ## References from:
